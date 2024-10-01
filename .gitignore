@@ -1,0 +1,13 @@
+# Project exclude paths
+/cmake-build-debug/
+/bin
+/obj
+scratch.exe
+*.cbp
+CMakeLists.txt
+*.xml
+/.idea/
+Patolli_cs_jcumb002.*
+*.txt
+ADTs
+Algorithms
