@@ -9,5 +9,7 @@ at the ends of the cross (marked red squares) grant an additional turn to the pl
 its move there. The four squares in the middle are the only squares on which capturing an opponent’s
 piece is possible. 
 
+![Patolli Board](https://cf.geekdo-images.com/SH-Li80kk5mzZr4QLOToHA__imagepage/img/8MleJEc2Q6JP8gI0oL1mIFWb2q0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1536553.jpg)
+
 # Why make Patolli?
 This is the result of a final project for the second semester C++ class at my university. 
